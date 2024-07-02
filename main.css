@@ -90,7 +90,7 @@
     background-color: rgb(1, 0, 55)
 }
 
-@media (max-width: 360px) {
+@media (max-width: 300px) {
     #b1 {
        font-size: 35px;
        position: absolute;
